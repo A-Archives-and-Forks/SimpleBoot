@@ -1,6 +1,14 @@
-### RedHead operates independently and relies entirely on community donations to stay online and continue developing free and open-source projects. We support Bitcoin, Monero, and Stripe -- but we prefer bitcoin/monero donations, as Stripe is unreliable as of the current moment.
-### You can find all of our donation methods on our website:
-[redheadindustries.xyz](https://redheadindustries.xyz)
+> [!IMPORTANT]
+> ## Rebranding Notice
+> Beginning on **May 10th, 2026 at 12:00 AM EDT**, **RedHead Industries** is being officially rebranded to **Skidworks**.
+>
+> During this transition period, repositories, websites, documentation, domains, branding assets, and organization names may still temporarily reference **RedHead Industries**.
+>
+> Skidworks is the direct continuation and successor of RedHead Industries.
+>
+> Thank you for your patience during this rebranding process.
+
+---
 
 # SimpleBoot – Turn your phone into a bootable USB device!
 **Version:** v2.1 [BETA] “Monster – Milestone 2”  
